@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LonellyyWolf
 - 👀 I’m interested in gaming, computers and outdoors  
-- 🌱 I’m currently learning learning Web Development but mainly Html
+- 🌱 I’m currently learning learning Web Development, currently struggling to JS🙄
 - 💞️ I’m looking to collaborate on anything, I just don't know yet 
 - 📫 How to reach me Snapchat @wolfxx.xxlonely
 
